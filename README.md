@@ -25,7 +25,7 @@ scripts/: Python files used for creating visualizations and models.
 
 How to Run
   - Clone the repository:
-      git clone https://github.com/your-repository-link.git
+      git clone https://github.com/HavocXedgE/test_SpaceX_Data.git
 Navigate to the repository folder:
   - cd your-repository-folder
 Install the required dependencies:
